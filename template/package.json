@@ -1,0 +1,22 @@
+{
+  "name": "paper-motion-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx Example out/example.mp4 --codec h264 --crf 16",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.471",
+    "@remotion/google-fonts": "4.0.471",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "4.0.471"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}

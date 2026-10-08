@@ -1,0 +1,9 @@
+node_modules/
+out/
+.DS_Store
+*.log
+# your own material stays on your machine
+template/public/*.mp4
+template/public/*.mov
+template/public/*.wav
+template/public/*.mp3
