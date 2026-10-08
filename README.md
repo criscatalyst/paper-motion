@@ -8,6 +8,14 @@ The reel opens on footage of you with a caption on every word, then slides down 
 
 Built and used by [@criscatalyst](https://instagram.com/criscatalyst).
 
+## This one's free. Imagine the paid one.
+
+This skill takes a script and gives you back a finished reel, and I'm giving it away.
+
+Inside **Velocity Lab**, my paid community, you get the rest of the system I run my personal brand on: voice cloning, video editing with Claude and Remotion, content pipelines and research agents. I show you how to install each one, so your content keeps going out on the days you don't feel like making it.
+
+👉 **[Join Velocity Lab](https://whop.com/velocity-lab/content-ai/)**
+
 ## What's inside
 
 | | |
@@ -64,5 +72,9 @@ Colours and fonts are constants at the top of `template/src/kit.tsx`. Change `GO
 ## Licence
 
 Code: MIT. Sounds in `template/public/sfx`: Kenney "Interface Sounds", CC0. Fonts load from Google Fonts under their open licences. Remotion has its own licence, free for individuals and small teams: read [remotion.dev/license](https://www.remotion.dev/license) before using it in a company.
+
+## Want the rest?
+
+If a free skill does this, the paid community goes a lot further. **[Velocity Lab](https://whop.com/velocity-lab/content-ai/)** is where I hand over the full system and help you set it up.
 
 Follow [@criscatalyst](https://instagram.com/criscatalyst) for daily AI systems to grow your business.

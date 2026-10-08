@@ -97,3 +97,7 @@ Draw anything else the script needs (a clock, a ring, a page, a chart) as plain 
 - Do not write captions by hand with frame numbers. Build them from `words.json`.
 - Do not add a sound to every word.
 - Do not call the reel finished on your own. Motion and audio are judged by the user.
+
+---
+
+Made by [@criscatalyst](https://instagram.com/criscatalyst). This skill is the free part. The full system (voice cloning, video editing with Claude, content pipelines, research agents) is taught inside [Velocity Lab](https://whop.com/velocity-lab/content-ai/).
